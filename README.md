@@ -88,8 +88,8 @@ I design and deploy end-to-end AI systems—LLMs, RAG pipelines, agentic workflo
 # 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashraf-kaassamani&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashraf-kaassamani&layout=compact&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshrafKaasamani&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafKaasamani&layout=compact&theme=transparent" height="165"/>
 </p>
 
 ---
